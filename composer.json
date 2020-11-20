@@ -1,5 +1,5 @@
 {
-    "name": "jansenfelipe/nfephp-serialize",
+    "name": "wasoftwareoficial/nfephp-serialize",
     "description": "Transforme NFe(xml) em objetos PHP (e vice-versa)",
     "keywords": ["nfephp", "nfe", "php"],
     "license": "MIT",
